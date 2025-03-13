@@ -156,4 +156,3 @@ A comprehensive air travel management system designed to handle flight operation
 1. Ensure MySQL is running via XAMPP before executing `main.py`.
 2. To reset passwords or add admins, edit the `users` table directly in phpMyAdmin.
 3. The default admin password (`123`) is hashed as `240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9`. Change it in the database for enhanced security.
-```
