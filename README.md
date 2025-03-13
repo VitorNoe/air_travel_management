@@ -1,7 +1,7 @@
 # Air Travel Management System / Sistema de Gerenciamento de Viagens Aéreas
 
 🌐 **Choose Your Language** / **Escolha seu Idioma**:  
-[🇺🇸 English Documentation](README_EN.md) | [🇧🇷 Português Documentation](README_PT.md)
+[🇺🇸 English Documentation](README_en_US.md) | [🇧🇷 Português Documentation](README_pt_BR.md)
 
 ---
 
